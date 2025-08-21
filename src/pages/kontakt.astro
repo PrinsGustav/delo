@@ -39,8 +39,10 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 						</div>
 					</div>
 
-					<form class="contact-form" netlify>
+					<form class="contact-form" id="contact-form">
 						<h3>Send oss en melding</h3>
+						
+						<div id="form-message" class="form-message" style="display: none;"></div>
 						
 						<div class="form-group">
 							<label for="name">Navn *</label>
@@ -68,7 +70,7 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 							<textarea id="message" name="message" rows="5" required placeholder="Skriv din melding her..."></textarea>
 						</div>
 
-						<button type="submit" class="submit-btn">Send melding</button>
+						<button type="submit" class="submit-btn" id="submit-btn">Send melding</button>
 						
 						<p class="form-note">
 							* Obligatoriske felt. Vi behandler din informasjon konfidensielt og deler den aldri med tredjepart.
@@ -102,6 +104,57 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 		<Footer />
 	</body>
 </html>
+
+<script>
+	document.addEventListener('DOMContentLoaded', function() {
+		const form = document.getElementById('contact-form');
+		const submitBtn = document.getElementById('submit-btn');
+		const formMessage = document.getElementById('form-message');
+
+		form.addEventListener('submit', async function(e) {
+			e.preventDefault();
+			
+			// Disable submit button and show loading
+			submitBtn.disabled = true;
+			submitBtn.textContent = 'Sender...';
+			formMessage.style.display = 'none';
+
+			// Get form data
+			const formData = new FormData(form);
+
+			try {
+				const response = await fetch('/api/contact', {
+					method: 'POST',
+					body: formData
+				});
+
+				const result = await response.json();
+
+				if (response.ok) {
+					// Success
+					formMessage.className = 'form-message success';
+					formMessage.textContent = result.message;
+					formMessage.style.display = 'block';
+					form.reset();
+				} else {
+					// Error
+					formMessage.className = 'form-message error';
+					formMessage.textContent = result.error || 'En feil oppstod. Prøv igjen senere.';
+					formMessage.style.display = 'block';
+				}
+			} catch (error) {
+				// Network error
+				formMessage.className = 'form-message error';
+				formMessage.textContent = 'Kunne ikke sende melding. Sjekk internettforbindelsen din og prøv igjen.';
+				formMessage.style.display = 'block';
+			} finally {
+				// Re-enable submit button
+				submitBtn.disabled = false;
+				submitBtn.textContent = 'Send melding';
+			}
+		});
+	});
+</script>
 
 <style>
 	.contact-hero {
@@ -244,6 +297,34 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 		text-align: center;
 		margin-top: 1rem;
 		line-height: 1.5;
+	}
+
+	.form-message {
+		padding: 1rem;
+		border-radius: 8px;
+		margin-bottom: 1.5rem;
+		font-weight: 500;
+	}
+
+	.form-message.success {
+		background-color: #d1fae5;
+		color: #065f46;
+		border: 1px solid #10b981;
+	}
+
+	.form-message.error {
+		background-color: #fee2e2;
+		color: #991b1b;
+		border: 1px solid #ef4444;
+	}
+
+	.submit-btn:disabled {
+		background: #9ca3af;
+		cursor: not-allowed;
+	}
+
+	.submit-btn:disabled:hover {
+		background: #9ca3af;
 	}
 
 	.faq-section {
