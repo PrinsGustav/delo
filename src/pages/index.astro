@@ -3,47 +3,311 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { getCollection } from 'astro:content';
+import FormattedDate from '../components/FormattedDate.astro';
+
+// Get featured posts (10 most recent)
+const posts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+).slice(0, 10);
+
+// Categories of posts for featured sections
+const featuredTopics = [
+	{
+		title: "💰 Sparing & Investering",
+		posts: posts.filter(post => 
+			post.data.title.toLowerCase().includes('spar') || 
+			post.data.title.toLowerCase().includes('invest') ||
+			post.data.title.toLowerCase().includes('fond') ||
+			post.data.title.toLowerCase().includes('aksje')
+		).slice(0, 3)
+	},
+	{
+		title: "🏠 Bolig & Lån",
+		posts: posts.filter(post => 
+			post.data.title.toLowerCase().includes('bolig') || 
+			post.data.title.toLowerCase().includes('lån') ||
+			post.data.title.toLowerCase().includes('refinans') ||
+			post.data.title.toLowerCase().includes('bsu')
+		).slice(0, 3)
+	},
+	{
+		title: "💳 Økonomi & Budsjett",
+		posts: posts.filter(post => 
+			post.data.title.toLowerCase().includes('budsjett') || 
+			post.data.title.toLowerCase().includes('økonomi') ||
+			post.data.title.toLowerCase().includes('privat') ||
+			post.data.title.toLowerCase().includes('spare penger')
+		).slice(0, 3)
+	}
+];
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="no">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 	</head>
 	<body>
 		<Header />
 		<main>
-			<h1>🧑‍🚀 Hello, Astronaut!</h1>
-			<p>
-				Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This
-				template serves as a lightweight, minimally-styled starting point for anyone looking to build
-				a personal website, blog, or portfolio with Astro.
-			</p>
-			<p>
-				This template comes with a few integrations already configured in your
-				<code>astro.config.mjs</code> file. You can customize your setup with
-				<a href="https://astro.build/integrations">Astro Integrations</a> to add tools like Tailwind,
-				React, or Vue to your project.
-			</p>
-			<p>Here are a few ideas on how to get started with the template:</p>
-			<ul>
-				<li>Edit this page in <code>src/pages/index.astro</code></li>
-				<li>Edit the site header items in <code>src/components/Header.astro</code></li>
-				<li>Add your name to the footer in <code>src/components/Footer.astro</code></li>
-				<li>Check out the included blog posts in <code>src/content/blog/</code></li>
-				<li>Customize the blog post page layout in <code>src/layouts/BlogPost.astro</code></li>
-			</ul>
-			<p>
-				Have fun! If you get stuck, remember to
-				<a href="https://docs.astro.build/">read the docs</a>
-				or <a href="https://astro.build/chat">join us on Discord</a> to ask questions.
-			</p>
-			<p>
-				Looking for a blog template with a bit more personality? Check out
-				<a href="https://github.com/Charca/astro-blog-template">astro-blog-template</a>
-				by <a href="https://twitter.com/Charca">Maxi Ferreira</a>.
-			</p>
+			<section class="hero">
+				<h1>💰 Delo - Din guide til privatøkonomi</h1>
+				<p class="hero-description">
+					Lær å mestre din privatøkonomi med ekspertråd om sparing, investering, lån og økonomisk planlegging. 
+					Vi har samlet over 118 artikler som hjelper deg med alt fra budsjett til pensjonssparing.
+				</p>
+				<div class="hero-stats">
+					<div class="stat">
+						<span class="number">118+</span>
+						<span class="label">Artikler</span>
+					</div>
+					<div class="stat">
+						<span class="number">10+</span>
+						<span class="label">Kategorier</span>
+					</div>
+					<div class="stat">
+						<span class="number">100%</span>
+						<span class="label">Gratis</span>
+					</div>
+				</div>
+			</section>
+
+			<section class="featured-topics">
+				<h2>🎯 Populære emner</h2>
+				<div class="topics-grid">
+					{featuredTopics.map(topic => (
+						topic.posts.length > 0 && (
+							<div class="topic-section">
+								<h3>{topic.title}</h3>
+								<ul class="posts-list">
+									{topic.posts.map(post => (
+										<li>
+											<a href={`/blog/${post.slug}/`}>
+												<span class="post-title">{post.data.title}</span>
+												<FormattedDate date={post.data.pubDate} />
+											</a>
+										</li>
+									))}
+								</ul>
+							</div>
+						)
+					))}
+				</div>
+			</section>
+
+			<section class="latest-posts">
+				<h2>📰 Siste artikler</h2>
+				<div class="posts-grid">
+					{posts.map(post => (
+						<article class="post-card">
+							<a href={`/blog/${post.slug}/`}>
+								<h3>{post.data.title}</h3>
+								<p class="post-excerpt">{post.data.description}</p>
+								<div class="post-meta">
+									<FormattedDate date={post.data.pubDate} />
+								</div>
+							</a>
+						</article>
+					))}
+				</div>
+				<div class="view-all">
+					<a href="/blog" class="btn-primary">Se alle artikler →</a>
+				</div>
+			</section>
 		</main>
 		<Footer />
 	</body>
 </html>
+
+<style>
+	.hero {
+		text-align: center;
+		padding: 2rem 0 4rem;
+		border-bottom: 1px solid #eee;
+		margin-bottom: 3rem;
+	}
+
+	.hero h1 {
+		font-size: 2.5rem;
+		margin-bottom: 1rem;
+		color: #333;
+	}
+
+	.hero-description {
+		font-size: 1.2rem;
+		color: #666;
+		max-width: 600px;
+		margin: 0 auto 2rem;
+		line-height: 1.6;
+	}
+
+	.hero-stats {
+		display: flex;
+		justify-content: center;
+		gap: 2rem;
+		margin-top: 2rem;
+	}
+
+	.stat {
+		text-align: center;
+	}
+
+	.stat .number {
+		display: block;
+		font-size: 2rem;
+		font-weight: bold;
+		color: #2563eb;
+	}
+
+	.stat .label {
+		font-size: 0.9rem;
+		color: #666;
+	}
+
+	.featured-topics h2,
+	.latest-posts h2 {
+		font-size: 1.8rem;
+		margin-bottom: 1.5rem;
+		color: #333;
+	}
+
+	.topics-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+		gap: 2rem;
+		margin-bottom: 3rem;
+	}
+
+	.topic-section {
+		background: #f8f9fa;
+		padding: 1.5rem;
+		border-radius: 8px;
+	}
+
+	.topic-section h3 {
+		margin-bottom: 1rem;
+		color: #333;
+	}
+
+	.posts-list {
+		list-style: none;
+		padding: 0;
+	}
+
+	.posts-list li {
+		margin-bottom: 0.8rem;
+	}
+
+	.posts-list a {
+		text-decoration: none;
+		display: flex;
+		justify-content: space-between;
+		align-items: flex-start;
+		padding: 0.5rem 0;
+		border-bottom: 1px solid #e5e5e5;
+	}
+
+	.posts-list a:hover {
+		background: #f0f0f0;
+		padding-left: 0.5rem;
+		margin-left: -0.5rem;
+		border-radius: 4px;
+	}
+
+	.post-title {
+		color: #2563eb;
+		font-weight: 500;
+		flex: 1;
+		margin-right: 1rem;
+	}
+
+	.posts-list time {
+		color: #666;
+		font-size: 0.85rem;
+		white-space: nowrap;
+	}
+
+	.posts-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+		gap: 1.5rem;
+		margin-bottom: 2rem;
+	}
+
+	.post-card {
+		background: white;
+		border: 1px solid #e5e5e5;
+		border-radius: 8px;
+		padding: 1.5rem;
+		transition: box-shadow 0.2s ease;
+	}
+
+	.post-card:hover {
+		box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+	}
+
+	.post-card a {
+		text-decoration: none;
+		color: inherit;
+	}
+
+	.post-card h3 {
+		color: #2563eb;
+		margin-bottom: 0.5rem;
+		font-size: 1.1rem;
+		line-height: 1.3;
+	}
+
+	.post-excerpt {
+		color: #666;
+		line-height: 1.5;
+		margin-bottom: 1rem;
+		display: -webkit-box;
+		-webkit-line-clamp: 3;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+	}
+
+	.post-meta {
+		color: #888;
+		font-size: 0.9rem;
+	}
+
+	.view-all {
+		text-align: center;
+		margin-top: 2rem;
+	}
+
+	.btn-primary {
+		background: #2563eb;
+		color: white;
+		padding: 0.75rem 1.5rem;
+		text-decoration: none;
+		border-radius: 6px;
+		font-weight: 500;
+		transition: background-color 0.2s ease;
+	}
+
+	.btn-primary:hover {
+		background: #1d4ed8;
+	}
+
+	@media (max-width: 768px) {
+		.hero h1 {
+			font-size: 2rem;
+		}
+
+		.hero-stats {
+			gap: 1rem;
+		}
+
+		.topics-grid {
+			grid-template-columns: 1fr;
+		}
+
+		.posts-grid {
+			grid-template-columns: 1fr;
+		}
+	}
+</style>

@@ -6,10 +6,35 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Function to fetch all posts from WordPress REST API
+// Function to fetch all posts from WordPress REST API with pagination
 async function fetchWordPressPosts() {
+    let allPosts = [];
+    let page = 1;
+    let hasMorePosts = true;
+    
+    while (hasMorePosts) {
+        const posts = await fetchPostsPage(page);
+        if (!posts || posts.length === 0) {
+            hasMorePosts = false;
+        } else {
+            allPosts = allPosts.concat(posts);
+            console.log(`Fetched page ${page}: ${posts.length} posts (Total: ${allPosts.length})`);
+            page++;
+            // Safety check to prevent infinite loops
+            if (page > 10) {
+                console.log('Reached maximum page limit (10), stopping...');
+                hasMorePosts = false;
+            }
+        }
+    }
+    
+    return allPosts;
+}
+
+// Function to fetch a single page of posts
+async function fetchPostsPage(page) {
     return new Promise((resolve, reject) => {
-        https.get('https://delo.no/wp-json/wp/v2/posts?per_page=100', (res) => {
+        https.get(`https://delo.no/wp-json/wp/v2/posts?per_page=100&page=${page}`, (res) => {
             let data = '';
             
             res.on('data', (chunk) => {
