@@ -2,7 +2,7 @@
 title: "Hva du bør vite før du leier ut boligen din"
 description: "Å leie ut bolig kan være en god måte å generere ekstra inntekt på, men det innebærer også ansvar og risiko. Før du starter, er det avgjørende å ha en god forståelse av dine juridiske, økonomiske og praktiske forpliktelser som utleier. Denne artikkelen tar deg gjennom alt du bør vite før du leier ut boligen &#8230; Read more"
 pubDate: "2025-01-15"
-heroImage: "../../assets/blog/personholdingasmartphonewithgoodcreditscoremeteron.jpg"
+heroImage: "../../assets/blog/wp-originals/4-13.jpg"
 ---
 
 Å leie ut bolig kan være en god måte å generere ekstra inntekt på, men det innebærer også ansvar og risiko. Før du starter, er det avgjørende å ha en god forståelse av dine juridiske, økonomiske og praktiske forpliktelser som utleier. Denne artikkelen tar deg gjennom alt du bør vite før du leier ut boligen din, slik at du kan gjøre det på en trygg og profesjonell måte.

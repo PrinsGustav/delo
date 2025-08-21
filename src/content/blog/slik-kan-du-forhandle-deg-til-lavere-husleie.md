@@ -2,7 +2,7 @@
 title: "Slik kan du forhandle deg til lavere husleie"
 description: "Husleie er en av de største faste utgiftene for de fleste, og den kan spise en betydelig del av månedens budsjett. Men visste du at det er mulig å forhandle seg til lavere husleie? Med riktig strategi og forberedelse kan du spare betydelige beløp hver måned. Denne artikkelen gir deg en trinnvis guide til hvordan &#8230; Read more"
 pubDate: "2025-02-06"
-heroImage: "../../assets/blog/spreadsheetdocumentinformationfinancialstartupconc.jpg"
+heroImage: "../../assets/blog/wp-originals/4-34.jpg"
 ---
 
 Husleie er en av de største faste utgiftene for de fleste, og den kan spise en betydelig del av månedens budsjett. Men visste du at det er mulig å forhandle seg til lavere husleie? Med riktig strategi og forberedelse kan du spare betydelige beløp hver måned.

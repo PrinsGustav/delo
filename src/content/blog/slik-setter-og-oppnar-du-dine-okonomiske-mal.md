@@ -2,7 +2,7 @@
 title: "Slik setter og oppnår du dine økonomiske mål"
 description: "Å sette økonomiske mål er en av de viktigste tingene du kan gjøre for å ta kontroll over økonomien din og bygge en trygg fremtid. Uansett om målet ditt er å betale ned gjeld, spare til bolig, pensjon eller en ferie, krever det planlegging, disiplin og konkrete tiltak for å lykkes. I denne omfattende guiden &#8230; Read more"
 pubDate: "2025-02-03"
-heroImage: "../../assets/blog/pagewithinscriptionfinancialindependenceretireearl.jpg"
+heroImage: "../../assets/blog/wp-originals/4-32.jpg"
 ---
 
 Å sette økonomiske mål er en av de viktigste tingene du kan gjøre for å ta kontroll over økonomien din og bygge en trygg fremtid. Uansett om målet ditt er å betale ned gjeld, spare til bolig, pensjon eller en ferie, krever det planlegging, disiplin og konkrete tiltak for å lykkes.

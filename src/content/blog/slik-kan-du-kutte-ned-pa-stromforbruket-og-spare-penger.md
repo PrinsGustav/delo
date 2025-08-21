@@ -2,7 +2,7 @@
 title: "Slik kan du kutte ned på strømforbruket og spare penger"
 description: "I dagens samfunn, der strømpriser stadig øker og bærekraft er en prioritet, er det viktigere enn noen gang å finne måter å redusere strømforbruket på. Ved å implementere smarte tiltak kan du både spare penger og bidra til en grønnere fremtid. Denne artikkelen tar for seg praktiske tips, langsiktige løsninger og teknologiske hjelpemidler for å &#8230; Read more"
 pubDate: "2025-01-07"
-heroImage: "../../assets/blog/mutualfundsbusinessstockprofitgrowthinvestmentmone.jpg"
+heroImage: "../../assets/blog/wp-originals/2-7.jpg"
 ---
 
 I dagens samfunn, der strømpriser stadig øker og bærekraft er en prioritet, er det viktigere enn noen gang å finne måter å redusere strømforbruket på. Ved å implementere smarte tiltak kan du både spare penger og bidra til en grønnere fremtid. Denne artikkelen tar for seg praktiske tips, langsiktige løsninger og teknologiske hjelpemidler for å kutte strømforbruket i hjemmet ditt.

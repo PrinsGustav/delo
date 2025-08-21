@@ -2,7 +2,7 @@
 title: "Slik forhandler du deg til høyere lønn"
 description: "Å forhandle om lønn kan være en nervepirrende oppgave, men det er også en av de viktigste samtalene du kan ha for å sikre en rettferdig kompensasjon for arbeidet ditt. Enten du er i ferd med å starte en ny jobb eller ønsker en lønnsøkning i din nåværende rolle, kan forberedelse og riktig strategi gjøre &#8230; Read more"
 pubDate: "2025-01-28"
-heroImage: "../../assets/blog/spreadsheetdocumentinformationfinancialstartupconc.jpg"
+heroImage: "../../assets/blog/wp-originals/4-26.jpg"
 ---
 
 Å forhandle om lønn kan være en nervepirrende oppgave, men det er også en av de viktigste samtalene du kan ha for å sikre en rettferdig kompensasjon for arbeidet ditt. Enten du er i ferd med å starte en ny jobb eller ønsker en lønnsøkning i din nåværende rolle, kan forberedelse og riktig strategi gjøre en stor forskjell.

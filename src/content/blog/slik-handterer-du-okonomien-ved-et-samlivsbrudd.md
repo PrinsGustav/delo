@@ -2,7 +2,7 @@
 title: "Slik håndterer du økonomien ved et samlivsbrudd"
 description: "Et samlivsbrudd er ofte en følelsesmessig og økonomisk krevende situasjon. Å dele et liv med noen innebærer ofte delte økonomiske forpliktelser, eiendeler og investeringer. Når forholdet tar slutt, kan det være vanskelig å få oversikt over den nye økonomiske virkeligheten. Ved å håndtere økonomien på en strukturert måte kan du minimere stresset og sikre en &#8230; Read more"
 pubDate: "2025-02-13"
-heroImage: "../../assets/blog/pagewithinscriptionfinancialindependenceretireearl.jpg"
+heroImage: "../../assets/blog/wp-originals/3-37.jpg"
 ---
 
 Et samlivsbrudd er ofte en følelsesmessig og økonomisk krevende situasjon. Å dele et liv med noen innebærer ofte delte økonomiske forpliktelser, eiendeler og investeringer. Når forholdet tar slutt, kan det være vanskelig å få oversikt over den nye økonomiske virkeligheten. Ved å håndtere økonomien på en strukturert måte kan du minimere stresset og sikre en stabil fremtid.

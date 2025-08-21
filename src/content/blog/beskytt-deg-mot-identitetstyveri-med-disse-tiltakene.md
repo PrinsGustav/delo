@@ -2,7 +2,7 @@
 title: "Beskytt deg mot identitetstyveri med disse tiltakene"
 description: "Identitetstyveri er en av de raskest voksende digitale truslene i dagens samfunn. Når kriminelle får tak i personlig informasjon som navn, fødselsnummer, passord eller bankopplysninger, kan de bruke denne informasjonen til å begå svindel. Konsekvensene kan være omfattende, fra økonomiske tap til svekket tillit og ødelagt kredittscore. Selv om trusselen kan virke skremmende, er det &#8230; Read more"
 pubDate: "2025-02-01"
-heroImage: "../../assets/blog/smilingmaturebusinessmanholdingsmartphonesittingin.jpg"
+heroImage: "../../assets/blog/wp-originals/4-30.jpg"
 ---
 
 Identitetstyveri er en av de raskest voksende digitale truslene i dagens samfunn. Når kriminelle får tak i personlig informasjon som navn, fødselsnummer, passord eller bankopplysninger, kan de bruke denne informasjonen til å begå svindel. Konsekvensene kan være omfattende, fra økonomiske tap til svekket tillit og ødelagt kredittscore.

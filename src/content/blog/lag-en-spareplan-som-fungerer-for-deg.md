@@ -2,7 +2,7 @@
 title: "Lag en spareplan som fungerer for deg"
 description: "Å lage en spareplan som passer dine behov, økonomiske mål og livssituasjon er essensielt for å bygge økonomisk trygghet. Enten du sparer til en stor investering som bolig, pensjon, eller bare ønsker en buffer for uforutsette utgifter, er det viktig å ha en plan. I denne artikkelen skal vi gå gjennom hvordan du kan lage &#8230; Read more"
 pubDate: "2025-01-18"
-heroImage: "../../assets/blog/pagewithinscriptionfinancialindependenceretireearl.jpg"
+heroImage: "../../assets/blog/wp-originals/1-18.jpg"
 ---
 
 Å lage en spareplan som passer dine behov, økonomiske mål og livssituasjon er essensielt for å bygge økonomisk trygghet. Enten du sparer til en stor investering som bolig, pensjon, eller bare ønsker en buffer for uforutsette utgifter, er det viktig å ha en plan. I denne artikkelen skal vi gå gjennom hvordan du kan lage en effektiv spareplan, og hvilke strategier som kan hjelpe deg å holde deg motivert.
