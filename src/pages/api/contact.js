@@ -5,13 +5,16 @@ const resend = new Resend(import.meta.env.RESEND_API_KEY);
 export async function POST({ request }) {
   try {
     // Check if API key is available
-    if (!import.meta.env.RESEND_API_KEY) {
-      console.error('RESEND_API_KEY not found');
+    const apiKey = import.meta.env.RESEND_API_KEY;
+    if (!apiKey) {
+      console.error('RESEND_API_KEY not found in environment variables');
       return new Response(
         JSON.stringify({ error: 'Server configuration error. Please try again later.' }), 
         { status: 500, headers: { 'Content-Type': 'application/json' } }
       );
     }
+    
+    console.log('API Key found:', apiKey.substring(0, 10) + '...');
 
     const formData = await request.formData();
     const name = formData.get('name');
@@ -49,8 +52,10 @@ export async function POST({ request }) {
 
     const subjectText = subjectMap[subject] || subject;
 
+    console.log('Attempting to send email with Resend...');
+    
     const { data, error } = await resend.emails.send({
-      from: 'Delo Kontaktskjema <onboarding@resend.dev>',
+      from: 'Acme <onboarding@resend.dev>',
       to: ['morten@trase.no'],
       reply_to: email,
       subject: `Ny henvendelse fra Delo: ${subjectText}`,
