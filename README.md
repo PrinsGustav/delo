@@ -38,4 +38,4 @@ Alle artikler er automatisk konvertert fra WordPress via REST API med:
 - Nedlastede bilder til assets
 - SEO-metadata bevart
 
-Last updated: 2025-08-21
+Last updated: 2025-08-21 - Fixed repository name casing
