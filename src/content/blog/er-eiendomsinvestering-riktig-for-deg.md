@@ -2,7 +2,7 @@
 title: "Er eiendomsinvestering riktig for deg?"
 description: "Å investere i eiendom er en av de mest populære måtene å bygge formue på, men det er ikke alltid det riktige valget for alle. Det kan være fristende å gå inn i eiendomsmarkedet med tanken om passiv inntekt og stabile avkastninger, men det krever også tid, penger, og en solid strategi. I denne artikkelen &#8230; Read more"
 pubDate: "2025-01-19"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/spreadsheetdocumentinformationfinancialstartupconc.jpg"
 ---
 
 Å investere i eiendom er en av de mest populære måtene å bygge formue på, men det er ikke alltid det riktige valget for alle. Det kan være fristende å gå inn i eiendomsmarkedet med tanken om passiv inntekt og stabile avkastninger, men det krever også tid, penger, og en solid strategi. I denne artikkelen vil vi utforske hva eiendomsinvestering innebærer, fordeler og ulemper, og hvordan du kan finne ut om det er riktig for deg.

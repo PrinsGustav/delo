@@ -2,7 +2,7 @@
 title: "Car insurance: How to get cheaper insurance"
 description: "Car insurance is a necessary expense for all car owners in Norway, but that does not mean that you need to pay more than necessary. With a little insight into how insurance companies calculate their premiums, and some simple steps to optimize your insurance, you can save significant amounts on your car insurance. This guide &#8230; Read more"
 pubDate: "2024-11-11"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/businessmenandwalkingonstairsoutdoorforcommuteto.jpg"
 ---
 
 Car insurance is a necessary expense for all car owners in Norway, but that does not mean that you need to pay more than necessary. With a little insight into how insurance companies calculate their premiums, and some simple steps to optimize your insurance, you can save significant amounts on your car insurance. This guide shows you how to get cheaper car insurance without compromising on the coverage you need.

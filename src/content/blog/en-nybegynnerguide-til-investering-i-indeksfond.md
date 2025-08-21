@@ -2,7 +2,7 @@
 title: "En nybegynnerguide til investering i indeksfond"
 description: "Investering kan virke skremmende for nybegynnere, spesielt når det gjelder å navigere gjennom ulike alternativer som aksjer, obligasjoner og fond. Men hvis du ønsker en enkel og effektiv måte å bygge rikdom på over tid, kan indeksfond være et utmerket valg. Denne guiden forklarer hva indeksfond er, hvordan de fungerer, og hvorfor de kan være &#8230; Read more"
 pubDate: "2025-01-06"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/pagewithinscriptionfinancialindependenceretireearl.jpg"
 ---
 
 Investering kan virke skremmende for nybegynnere, spesielt når det gjelder å navigere gjennom ulike alternativer som aksjer, obligasjoner og fond. Men hvis du ønsker en enkel og effektiv måte å bygge rikdom på over tid, kan indeksfond være et utmerket valg. Denne guiden forklarer hva indeksfond er, hvordan de fungerer, og hvorfor de kan være en solid investering for deg.

@@ -2,7 +2,7 @@
 title: "Alt du trenger å vite om studielån"
 description: "Studielån er en viktig ressurs for mange studenter som ønsker å finansiere høyere utdanning. Enten du planlegger å studere i Norge eller i utlandet, kan studielån fra Lånekassen gi deg økonomisk frihet og muligheten til å fokusere på studiene. Å forstå hvordan studielån fungerer, hva som kreves for å søke, og hvordan du tilbakebetaler lånet, &#8230; Read more"
 pubDate: "2024-11-05"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/warningsignontablewhilebusinesswomanworknetworksec.jpg"
 ---
 
 Studielån er en viktig ressurs for mange studenter som ønsker å finansiere høyere utdanning. Enten du planlegger å studere i Norge eller i utlandet, kan studielån fra Lånekassen gi deg økonomisk frihet og muligheten til å fokusere på studiene. Å forstå hvordan studielån fungerer, hva som kreves for å søke, og hvordan du tilbakebetaler lånet, er avgjørende for å kunne ta informerte økonomiske valg. I denne artikkelen vil vi gå gjennom alt du trenger å vite om studielån, slik at du kan få en solid oversikt over dine muligheter og ansvar.

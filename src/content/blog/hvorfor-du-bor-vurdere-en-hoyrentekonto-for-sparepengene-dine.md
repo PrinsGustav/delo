@@ -2,7 +2,7 @@
 title: "Hvorfor du bør vurdere en høyrentekonto for sparepengene dine"
 description: "Å spare penger er en viktig del av økonomisk planlegging, enten det er for kortsiktige mål som ferie eller langsiktige mål som pensjonering. Men hvor du velger å plassere sparepengene dine, kan ha stor betydning for hvor mye de vokser over tid. En av de beste måtene å sikre at pengene dine arbeider for deg, &#8230; Read more"
 pubDate: "2025-01-05"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/pagewithinscriptionfinancialindependenceretireearl.jpg"
 ---
 
 Å spare penger er en viktig del av økonomisk planlegging, enten det er for kortsiktige mål som ferie eller langsiktige mål som pensjonering. Men hvor du velger å plassere sparepengene dine, kan ha stor betydning for hvor mye de vokser over tid. En av de beste måtene å sikre at pengene dine arbeider for deg, er ved å bruke en høyrentekonto. I denne artikkelen skal vi se på hva en høyrentekonto er, fordelene ved å bruke den, og hvordan du kan få mest mulig ut av sparepengene dine.

@@ -2,7 +2,7 @@
 title: "Nedbetalingstid: Hvordan velge riktig for dine lån?"
 description: "Når du skal ta opp et lån, er en av de viktigste beslutningene du må ta, hvor lang tid du vil bruke på å betale det tilbake. Nedbetalingstiden på et lån kan ha stor innvirkning på både dine månedlige avdrag og den totale kostnaden av lånet. Det er ikke alltid lett å vite hva som &#8230; Read more"
 pubDate: "2025-01-28"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/mutualfundsbusinessstockprofitgrowthinvestmentmone.jpg"
 ---
 
 Når du skal ta opp et lån, er en av de viktigste beslutningene du må ta, hvor lang tid du vil bruke på å betale det tilbake. Nedbetalingstiden på et lån kan ha stor innvirkning på både dine månedlige avdrag og den totale kostnaden av lånet. Det er ikke alltid lett å vite hva som er den beste nedbetalingstiden, fordi den påvirker mer enn bare hvor raskt du blir gjeldfri – det handler også om hvordan du balanserer økonomien din på kort og lang sikt.

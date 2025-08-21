@@ -2,7 +2,7 @@
 title: "Privatøkonomi for nybegynnere: De viktigste tipsene"
 description: "God privatøkonomi handler om å ha kontroll på inntektene, utgiftene, sparingen og investeringene dine. Uansett om du nettopp har startet arbeidslivet eller ønsker å få bedre kontroll over din økonomi, kan gode økonomiske vaner gjøre en stor forskjell for din fremtidige økonomiske situasjon. I denne artikkelen vil vi ta deg gjennom de viktigste tipsene for &#8230; Read more"
 pubDate: "2025-01-02"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/pagewithinscriptionfinancialindependenceretireearl.jpg"
 ---
 
 God privatøkonomi handler om å ha kontroll på inntektene, utgiftene, sparingen og investeringene dine. Uansett om du nettopp har startet arbeidslivet eller ønsker å få bedre kontroll over din økonomi, kan gode økonomiske vaner gjøre en stor forskjell for din fremtidige økonomiske situasjon. I denne artikkelen vil vi ta deg gjennom de viktigste tipsene for å bygge en solid privatøkonomi, fra budsjettering til sparing, gjeldshåndtering og investeringer.

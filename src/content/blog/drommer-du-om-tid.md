@@ -2,7 +2,7 @@
 title: "Drømmer du om tid"
 description: "Å drømme om tid er en refleksjon av mange menneskers lengsel etter frihet og fleksibilitet i hverdagen. For mange handler denne drømmen om å kunne trekke seg tilbake fra arbeidslivet tidligere enn vanlig og bruke tiden på det som betyr mest. Tidlig pensjonering er ikke bare en fjern drøm, men en oppnåelig realitet for de &#8230; Read more"
 pubDate: "2025-02-15"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/textearlyretirementonofficedesktablewithkeyboardno.jpg"
 ---
 
 Å drømme om tid er en refleksjon av mange menneskers lengsel etter frihet og fleksibilitet i hverdagen. For mange handler denne drømmen om å kunne trekke seg tilbake fra arbeidslivet tidligere enn vanlig og bruke tiden på det som betyr mest. Tidlig pensjonering er ikke bare en fjern drøm, men en oppnåelig realitet for de som planlegger strategisk og forbereder seg godt.

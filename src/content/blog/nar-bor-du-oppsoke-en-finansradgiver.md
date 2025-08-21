@@ -2,7 +2,7 @@
 title: "Når bør du oppsøke en finansrådgiver?"
 description: "Økonomi er en viktig del av livet som påvirker alt fra daglige utgifter til langsiktige mål som pensjon og investeringer. Å ha en solid plan for økonomien din kan hjelpe deg med å navigere i komplekse økonomiske beslutninger, som å spare til bolig, investeringer, eller planlegging for pensjon. Men for mange kan det være vanskelig &#8230; Read more"
 pubDate: "2025-02-01"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/pagewithinscriptionfinancialindependenceretireearl.jpg"
 ---
 
 Økonomi er en viktig del av livet som påvirker alt fra daglige utgifter til langsiktige mål som pensjon og investeringer. Å ha en solid plan for økonomien din kan hjelpe deg med å navigere i komplekse økonomiske beslutninger, som å spare til bolig, investeringer, eller planlegging for pensjon. Men for mange kan det være vanskelig å vite hvor man skal begynne, og enda vanskeligere å holde seg oppdatert på økonomiske trender og regler.

@@ -2,7 +2,7 @@
 title: "Important tax deductions you must know"
 description: "Tax credits are a fantastic way to reduce your taxable income, and therefore how much you pay in tax each year. But many Norwegians are not fully aware of all the tax deductions they are entitled to. Whether you are a wage earner, self-employed, or have special expenses, the right deductions can save you thousands &#8230; Read more"
 pubDate: "2024-11-21"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/pagewithinscriptionfinancialindependenceretireearl.jpg"
 ---
 
 Tax credits are a fantastic way to reduce your taxable income, and therefore how much you pay in tax each year. But many Norwegians are not fully aware of all the tax deductions they are entitled to. Whether you are a wage earner, self-employed, or have special expenses, the right deductions can save you thousands of kroner. In this article, we'll take a thorough look at some of the most important tax deductions you need to know about to ensure you get the most out of your tax return in 2024.

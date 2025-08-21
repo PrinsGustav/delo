@@ -2,7 +2,7 @@
 title: "Pensjonsforsikring: Hva bør du tenke på for en trygg fremtid?"
 description: "Å planlegge for pensjonisttilværelsen er en viktig del av økonomisk sikkerhet og trivsel. Pensjonsforsikring kan spille en sentral rolle i å sikre en trygg fremtid ved å gi deg økonomisk støtte når du slutter å arbeide. Men med mange alternativer og komplekse ordninger å velge mellom, kan det være utfordrende å vite hva du bør &#8230; Read more"
 pubDate: "2025-01-14"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/pagewithinscriptionfinancialindependenceretireearl.jpg"
 ---
 
 Å planlegge for pensjonisttilværelsen er en viktig del av økonomisk sikkerhet og trivsel. Pensjonsforsikring kan spille en sentral rolle i å sikre en trygg fremtid ved å gi deg økonomisk støtte når du slutter å arbeide. Men med mange alternativer og komplekse ordninger å velge mellom, kan det være utfordrende å vite hva du bør tenke på.

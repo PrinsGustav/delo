@@ -2,7 +2,7 @@
 title: "Er kontanter bedre for budsjettering enn kort?"
 description: "I en verden som stadig blir mer digital, hvor betalingskort og apper dominerer, er det lett å overse kontantenes rolle i økonomisk styring. Når det gjelder budsjettering, har både kontanter og kort sine styrker og svakheter. Men hvilken metode er egentlig best for å hjelpe deg med å holde kontroll over økonomien? Denne artikkelen gir &#8230; Read more"
 pubDate: "2025-01-27"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/pagewithinscriptionfinancialindependenceretireearl.jpg"
 ---
 
 I en verden som stadig blir mer digital, hvor betalingskort og apper dominerer, er det lett å overse kontantenes rolle i økonomisk styring. Når det gjelder budsjettering, har både kontanter og kort sine styrker og svakheter. Men hvilken metode er egentlig best for å hjelpe deg med å holde kontroll over økonomien?

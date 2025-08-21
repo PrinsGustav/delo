@@ -2,7 +2,7 @@
 title: "Vær forberedt: Slik lager du en plan for økonomiske kriser"
 description: "Økonomiske kriser kan oppstå uventet og påvirke både enkeltpersoner og familier på en betydelig måte. Slike kriser kan komme av personlige hendelser som tap av jobb, sykdom, eller skilsmisse, eller fra globale hendelser som økonomiske nedgangstider, naturkatastrofer, eller pandemier. Uansett årsak er det avgjørende å være forberedt for å redusere belastningen og håndtere utfordringene som &#8230; Read more"
 pubDate: "2025-02-11"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/businessmenandwalkingonstairsoutdoorforcommuteto.jpg"
 ---
 
 Økonomiske kriser kan oppstå uventet og påvirke både enkeltpersoner og familier på en betydelig måte. Slike kriser kan komme av personlige hendelser som tap av jobb, sykdom, eller skilsmisse, eller fra globale hendelser som økonomiske nedgangstider, naturkatastrofer, eller pandemier. Uansett årsak er det avgjørende å være forberedt for å redusere belastningen og håndtere utfordringene som oppstår.

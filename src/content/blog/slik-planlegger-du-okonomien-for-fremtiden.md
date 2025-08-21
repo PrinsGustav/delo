@@ -2,7 +2,7 @@
 title: "Slik planlegger du økonomien for fremtiden"
 description: "God økonomisk planlegging er avgjørende for å oppnå økonomisk trygghet og frihet i fremtiden. Det handler ikke bare om å sette opp et budsjett, men også om å gjøre smarte investeringer, redusere gjeld, spare til pensjon, og beskytte dine eiendeler mot uforutsette hendelser. Uansett om du er i 20-årene og nettopp har begynt din økonomiske &#8230; Read more"
 pubDate: "2024-12-11"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/pagewithinscriptionfinancialindependenceretireearl.jpg"
 ---
 
 God økonomisk planlegging er avgjørende for å oppnå økonomisk trygghet og frihet i fremtiden. Det handler ikke bare om å sette opp et budsjett, men også om å gjøre smarte investeringer, redusere gjeld, spare til pensjon, og beskytte dine eiendeler mot uforutsette hendelser. Uansett om du er i 20-årene og nettopp har begynt din økonomiske reise, eller nærmer deg pensjonisttilværelsen, er det aldri for tidlig eller for sent å begynne å planlegge for fremtiden.

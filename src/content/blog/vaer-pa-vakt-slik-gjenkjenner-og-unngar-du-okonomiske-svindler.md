@@ -2,7 +2,7 @@
 title: "Vær på vakt: Slik gjenkjenner og unngår du økonomiske svindler"
 description: "Økonomiske svindler har blitt stadig mer utbredt i en digital verden, hvor svindlere finner stadig nye måter å lure mennesker for penger. Disse svindlene kan ha alvorlige konsekvenser, inkludert økonomiske tap, skade på kreditt og emosjonell stress. Å være informert og oppmerksom er det første steget for å beskytte deg selv mot slike trusler. Denne &#8230; Read more"
 pubDate: "2025-02-05"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/mutualfundsbusinessstockprofitgrowthinvestmentmone.jpg"
 ---
 
 Økonomiske svindler har blitt stadig mer utbredt i en digital verden, hvor svindlere finner stadig nye måter å lure mennesker for penger. Disse svindlene kan ha alvorlige konsekvenser, inkludert økonomiske tap, skade på kreditt og emosjonell stress. Å være informert og oppmerksom er det første steget for å beskytte deg selv mot slike trusler.

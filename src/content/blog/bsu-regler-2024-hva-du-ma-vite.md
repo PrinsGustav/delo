@@ -2,7 +2,7 @@
 title: "BSU-regler 2024: Hva du må vite"
 description: "Boligsparing for ungdom (BSU) er en av de mest populære spareordningene i Norge, spesielt rettet mot unge som ønsker å spare til sin første bolig. BSU-ordningen gir både skattefordeler og høyere rente enn vanlige sparekontoer, og den har blitt et viktig verktøy for mange som ønsker å komme seg inn på boligmarkedet. Med regelendringer som &#8230; Read more"
 pubDate: "2025-02-03"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/mutualfundsbusinessstockprofitgrowthinvestmentmone.jpg"
 ---
 
 Boligsparing for ungdom (BSU) er en av de mest populære spareordningene i Norge, spesielt rettet mot unge som ønsker å spare til sin første bolig. BSU-ordningen gir både skattefordeler og høyere rente enn vanlige sparekontoer, og den har blitt et viktig verktøy for mange som ønsker å komme seg inn på boligmarkedet. Med regelendringer som trer i kraft i 2024, er det viktig å holde seg oppdatert på hva som gjelder og hvordan du kan dra nytte av de nye reglene.

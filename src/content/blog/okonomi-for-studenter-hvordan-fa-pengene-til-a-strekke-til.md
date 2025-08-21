@@ -2,7 +2,7 @@
 title: "Økonomi for studenter: Hvordan få pengene til å strekke til"
 description: "Studentlivet kan være en spennende tid full av nye erfaringer og læring, men det kommer også med økonomiske utfordringer. For mange studenter er pengene begrenset, og det kan være en kunst å få pengene til å strekke til. Med høye bokostnader, utgifter til mat, bøker og andre nødvendigheter kan det være vanskelig å få endene &#8230; Read more"
 pubDate: "2025-01-21"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/businessmenandwalkingonstairsoutdoorforcommuteto.jpg"
 ---
 
 Studentlivet kan være en spennende tid full av nye erfaringer og læring, men det kommer også med økonomiske utfordringer. For mange studenter er pengene begrenset, og det kan være en kunst å få pengene til å strekke til. Med høye bokostnader, utgifter til mat, bøker og andre nødvendigheter kan det være vanskelig å få endene til å møtes. Men med litt planlegging og gode økonomiske vaner kan du sikre at pengene varer lenger, samtidig som du unngår økonomiske problemer.

@@ -2,7 +2,7 @@
 title: "Reis på budsjett: Slik får du mest ut av feriepengene"
 description: "Å reise på budsjett trenger ikke å bety at du må ofre komfort eller gode opplevelser. Med nøye planlegging, kreative strategier og smarte valg kan feriepengene dine strekke seg lenger enn du tror. I denne artikkelen vil vi gi deg praktiske tips og råd for å maksimere reisekvaliteten uten å tømme lommeboken. Hvorfor reise på &#8230; Read more"
 pubDate: "2025-01-21"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/businessmenandwalkingonstairsoutdoorforcommuteto.jpg"
 ---
 
 Å reise på budsjett trenger ikke å bety at du må ofre komfort eller gode opplevelser. Med nøye planlegging, kreative strategier og smarte valg kan feriepengene dine strekke seg lenger enn du tror. I denne artikkelen vil vi gi deg praktiske tips og råd for å maksimere reisekvaliteten uten å tømme lommeboken.

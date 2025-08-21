@@ -2,7 +2,7 @@
 title: "Slik får du lav rente på boliglån"
 description: "Boliglån er for mange den største økonomiske forpliktelsen i livet, og renten på boliglånet kan ha en betydelig innvirkning på din personlige økonomi. Å få lavest mulig rente på boliglånet kan spare deg for store summer over tid. Selv små renteendringer kan utgjøre flere tusen kroner i året. Men hvordan kan du sikre deg lav &#8230; Read more"
 pubDate: "2024-12-29"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/personholdingasmartphonewithgoodcreditscoremeteron.jpg"
 ---
 
 Boliglån er for mange den største økonomiske forpliktelsen i livet, og renten på boliglånet kan ha en betydelig innvirkning på din personlige økonomi. Å få lavest mulig rente på boliglånet kan spare deg for store summer over tid. Selv små renteendringer kan utgjøre flere tusen kroner i året. Men hvordan kan du sikre deg lav rente på boliglånet? I denne artikkelen skal vi se nærmere på hva som påvirker rentenivået, strategier for å forhandle seg frem til en bedre rente, og hvilke faktorer bankene ser på når de setter renten.

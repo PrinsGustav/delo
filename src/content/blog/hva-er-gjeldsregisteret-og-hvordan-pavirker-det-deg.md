@@ -2,7 +2,7 @@
 title: "Hva er gjeldsregisteret og hvordan påvirker det deg?"
 description: "I løpet av de siste årene har nordmenns totale gjeld økt betydelig, og mange har tatt opp kredittkortlån, forbrukslån og andre former for usikret gjeld. Dette har skapt bekymringer for økonomiske utfordringer på sikt, og et av tiltakene som er innført for å gi både banker og låntakere bedre oversikt, er gjeldsregisteret. Men hva er &#8230; Read more"
 pubDate: "2024-10-31"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/happycaucasianmanbuyingthingsonlineusingsmartphone.jpg"
 ---
 
 I løpet av de siste årene har nordmenns totale gjeld økt betydelig, og mange har tatt opp kredittkortlån, forbrukslån og andre former for usikret gjeld. Dette har skapt bekymringer for økonomiske utfordringer på sikt, og et av tiltakene som er innført for å gi både banker og låntakere bedre oversikt, er **gjeldsregisteret**. Men hva er egentlig gjeldsregisteret, og hvordan påvirker det din personlige økonomi? I denne artikkelen vil vi forklare hva gjeldsregisteret er, hvordan det fungerer, og hvilke konsekvenser det har for deg som låntaker.

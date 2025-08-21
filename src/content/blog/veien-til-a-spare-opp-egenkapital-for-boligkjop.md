@@ -2,7 +2,7 @@
 title: "Veien til å spare opp egenkapital for boligkjøp"
 description: "Å kjøpe bolig er en stor investering, og for mange er det første steget på denne reisen å spare opp nok egenkapital. Egenkapitalen er den delen av boligens kjøpesum som du selv må ha spart opp, og den utgjør vanligvis minst 15 % av boligens verdi, ifølge norske boliglånsregler. For mange kan dette virke som &#8230; Read more"
 pubDate: "2025-01-14"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/businessmenandwalkingonstairsoutdoorforcommuteto.jpg"
 ---
 
 Å kjøpe bolig er en stor investering, og for mange er det første steget på denne reisen å spare opp nok egenkapital. Egenkapitalen er den delen av boligens kjøpesum som du selv må ha spart opp, og den utgjør vanligvis minst 15 % av boligens verdi, ifølge norske boliglånsregler. For mange kan dette virke som en stor utfordring, men med riktig planlegging, disiplin og smarte grep kan det la seg gjøre. I denne artikkelen ser vi på de ulike stegene du kan ta for å spare opp egenkapital for boligkjøp.

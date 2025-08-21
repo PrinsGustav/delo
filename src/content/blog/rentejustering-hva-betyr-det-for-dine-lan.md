@@ -2,7 +2,7 @@
 title: "Rentejustering: Hva betyr det for dine lån?"
 description: "Rentejustering er en viktig del av ethvert lån, spesielt for de som har boliglån, billån, forbrukslån eller andre typer gjeld med variabel rente. Renteendringer kan ha en direkte innvirkning på dine månedlige utgifter og den totale kostnaden for lånet over tid. For mange låntakere er det å forstå hvordan rentejusteringer fungerer, og hvordan de kan &#8230; Read more"
 pubDate: "2024-12-09"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/spreadsheetdocumentinformationfinancialstartupconc.jpg"
 ---
 
 Rentejustering er en viktig del av ethvert lån, spesielt for de som har boliglån, billån, forbrukslån eller andre typer gjeld med variabel rente. Renteendringer kan ha en direkte innvirkning på dine månedlige utgifter og den totale kostnaden for lånet over tid. For mange låntakere er det å forstå hvordan rentejusteringer fungerer, og hvordan de kan påvirke økonomien, avgjørende for å sikre god økonomisk helse.

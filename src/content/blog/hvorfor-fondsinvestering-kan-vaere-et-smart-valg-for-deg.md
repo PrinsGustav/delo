@@ -2,7 +2,7 @@
 title: "Hvorfor fondsinvestering kan være et smart valg for deg"
 description: "Fond har blitt en populær investeringsform for både nybegynnere og erfarne investorer. De gir en enkel og praktisk måte å spre risiko og oppnå avkastning over tid, uten at du trenger å være en ekspert på aksjemarkedet. Hvis du ønsker å bygge opp kapital, spare til pensjon eller oppnå økonomiske mål, kan fondsinvestering være et &#8230; Read more"
 pubDate: "2025-02-12"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/pagewithinscriptionfinancialindependenceretireearl.jpg"
 ---
 
 Fond har blitt en populær investeringsform for både nybegynnere og erfarne investorer. De gir en enkel og praktisk måte å spre risiko og oppnå avkastning over tid, uten at du trenger å være en ekspert på aksjemarkedet. Hvis du ønsker å bygge opp kapital, spare til pensjon eller oppnå økonomiske mål, kan fondsinvestering være et smart valg.

@@ -2,7 +2,7 @@
 title: "Hvordan lære barn om økonomi og sparing"
 description: "Økonomisk forståelse er en viktig ferdighet som alle burde utvikle tidlig i livet. Jo tidligere barn lærer om penger, desto bedre rustet vil de være til å ta fornuftige økonomiske beslutninger som voksne. I en verden der økonomiske valg blir stadig mer komplekse, er det viktig å gi barna et solid grunnlag for hvordan penger &#8230; Read more"
 pubDate: "2025-01-12"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/pagewithinscriptionfinancialindependenceretireearl.jpg"
 ---
 
 Økonomisk forståelse er en viktig ferdighet som alle burde utvikle tidlig i livet. Jo tidligere barn lærer om penger, desto bedre rustet vil de være til å ta fornuftige økonomiske beslutninger som voksne. I en verden der økonomiske valg blir stadig mer komplekse, er det viktig å gi barna et solid grunnlag for hvordan penger fungerer, hvorfor det er viktig å spare, og hvordan man kan bruke penger ansvarlig.

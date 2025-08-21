@@ -2,7 +2,7 @@
 title: "Hva dekker reiseforsikringen, og hvordan velger du riktig?"
 description: "Reiseforsikring er en essensiell del av enhver reise, enten du skal på en kort weekendtur i Europa eller på en lengre ferie til eksotiske destinasjoner. Uansett hvor godt du planlegger reisen, kan uforutsette hendelser som sykdom, skader, tyveri eller kansellerte flyvninger oppstå. Med en god reiseforsikring kan du få dekket uforutsette kostnader og minimere stresset &#8230; Read more"
 pubDate: "2024-10-29"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/businessmenandwalkingonstairsoutdoorforcommuteto.jpg"
 ---
 
 Reiseforsikring er en essensiell del av enhver reise, enten du skal på en kort weekendtur i Europa eller på en lengre ferie til eksotiske destinasjoner. Uansett hvor godt du planlegger reisen, kan uforutsette hendelser som sykdom, skader, tyveri eller kansellerte flyvninger oppstå. Med en god reiseforsikring kan du få dekket uforutsette kostnader og minimere stresset hvis noe skulle gå galt.

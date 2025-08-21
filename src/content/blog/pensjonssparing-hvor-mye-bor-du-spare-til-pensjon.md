@@ -2,7 +2,7 @@
 title: "Pensjonssparing: Hvor mye bør du spare til pensjon?"
 description: "Pensjonssparing er et tema som mange utsetter å tenke på, men det er en av de viktigste økonomiske avgjørelsene du kan ta for fremtiden. Uansett alder eller inntekt er det aldri for tidlig – eller for sent – å begynne å planlegge for pensjonstiden. Men et av de største spørsmålene mange stiller seg er: Hvor &#8230; Read more"
 pubDate: "2024-10-20"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/pagewithinscriptionfinancialindependenceretireearl.jpg"
 ---
 
 Pensjonssparing er et tema som mange utsetter å tenke på, men det er en av de viktigste økonomiske avgjørelsene du kan ta for fremtiden. Uansett alder eller inntekt er det aldri for tidlig – eller for sent – å begynne å planlegge for pensjonstiden. Men et av de største spørsmålene mange stiller seg er: *Hvor mye bør jeg egentlig spare til pensjon?* Denne artikkelen vil ta for seg hvorfor pensjonssparing er viktig, hvordan du kan beregne hvor mye du trenger å spare, og hvilke spareformer som kan hjelpe deg med å nå dine pensjonsmål.

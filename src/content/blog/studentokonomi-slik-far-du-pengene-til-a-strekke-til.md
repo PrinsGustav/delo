@@ -2,7 +2,7 @@
 title: "Studentøkonomi: Slik får du pengene til å strekke til"
 description: "Å være student er en spennende tid fylt med læring, nye opplevelser og personlige utfordringer. Men økonomien kan ofte være en stressfaktor. Heldigvis finnes det mange måter å få pengene til å strekke til, selv på et stramt budsjett. I denne artikkelen skal vi utforske praktiske tips og strategier som hjelper deg med å mestre &#8230; Read more"
 pubDate: "2025-01-25"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/businessmenandwalkingonstairsoutdoorforcommuteto.jpg"
 ---
 
 Å være student er en spennende tid fylt med læring, nye opplevelser og personlige utfordringer. Men økonomien kan ofte være en stressfaktor. Heldigvis finnes det mange måter å få pengene til å strekke til, selv på et stramt budsjett. I denne artikkelen skal vi utforske praktiske tips og strategier som hjelper deg med å mestre studentøkonomien.

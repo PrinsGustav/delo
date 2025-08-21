@@ -2,7 +2,7 @@
 title: "Alt du trenger å vite om formueskatt i 2024"
 description: "Formueskatt er en skatt som beregnes på den samlede nettoformuen til enkeltpersoner, der formuen overstiger et visst nivå. I Norge har formueskatt vært en del av skattesystemet i mange år, og selv om det er et omdiskutert tema, påvirker det en stor andel av de som eier eiendom, aksjer eller har andre former for verdier. &#8230; Read more"
 pubDate: "2024-12-25"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/mutualfundsbusinessstockprofitgrowthinvestmentmone.jpg"
 ---
 
 Formueskatt er en skatt som beregnes på den samlede nettoformuen til enkeltpersoner, der formuen overstiger et visst nivå. I Norge har formueskatt vært en del av skattesystemet i mange år, og selv om det er et omdiskutert tema, påvirker det en stor andel av de som eier eiendom, aksjer eller har andre former for verdier. Med endringer i skattesystemet for 2024, er det viktig å forstå hvordan formueskatt fungerer, hva som er nytt, og hvilke strategier du kan bruke for å redusere skattebyrden.

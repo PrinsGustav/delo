@@ -2,7 +2,7 @@
 title: "Lånekalkulator: Beregn hva lånet ditt vil koste"
 description: "Å ta opp et lån er en stor økonomisk beslutning som kan påvirke økonomien din i mange år fremover. Enten du planlegger å kjøpe bolig, bil, eller refinansiere eksisterende gjeld, er det viktig å vite nøyaktig hva lånet vil koste deg over tid. Dette kan du enkelt finne ut ved å bruke en lånekalkulator, som &#8230; Read more"
 pubDate: "2025-01-23"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/spreadsheetdocumentinformationfinancialstartupconc.jpg"
 ---
 
 Å ta opp et lån er en stor økonomisk beslutning som kan påvirke økonomien din i mange år fremover. Enten du planlegger å kjøpe bolig, bil, eller refinansiere eksisterende gjeld, er det viktig å vite nøyaktig hva lånet vil koste deg over tid. Dette kan du enkelt finne ut ved å bruke en lånekalkulator, som hjelper deg med å beregne både de månedlige avdragene og den totale kostnaden for lånet ditt.

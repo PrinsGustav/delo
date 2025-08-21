@@ -2,7 +2,7 @@
 title: "Refinansiering av studielån: Er det verdt det?"
 description: "Studielån kan være en av de største økonomiske forpliktelsene mange står overfor etter endt utdanning. For mange nyutdannede kan det å betale tilbake et studielån virke overveldende, spesielt med høye renter og lange nedbetalingstider. En løsning som ofte blir vurdert er refinansiering av studielånet, men er det virkelig verdt det? I denne artikkelen skal vi &#8230; Read more"
 pubDate: "2024-12-17"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/personholdingasmartphonewithgoodcreditscoremeteron.jpg"
 ---
 
 Studielån kan være en av de største økonomiske forpliktelsene mange står overfor etter endt utdanning. For mange nyutdannede kan det å betale tilbake et studielån virke overveldende, spesielt med høye renter og lange nedbetalingstider. En løsning som ofte blir vurdert er refinansiering av studielånet, men er det virkelig verdt det?

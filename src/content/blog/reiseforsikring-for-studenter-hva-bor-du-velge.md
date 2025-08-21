@@ -2,7 +2,7 @@
 title: "Reiseforsikring for studenter: Hva bør du velge?"
 description: "Som student er det både spennende og lærerikt å dra på reise, enten det er for å utforske nye kulturer, delta i utvekslingsprogrammer, eller ta et semester i utlandet. Men med reising kommer også en viss risiko. Alt fra sykdom, ulykker, og tap av eiendeler til forsinkelser kan skje når du minst venter det. For &#8230; Read more"
 pubDate: "2025-01-06"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/businessmenandwalkingonstairsoutdoorforcommuteto.jpg"
 ---
 
 Som student er det både spennende og lærerikt å dra på reise, enten det er for å utforske nye kulturer, delta i utvekslingsprogrammer, eller ta et semester i utlandet. Men med reising kommer også en viss risiko. Alt fra sykdom, ulykker, og tap av eiendeler til forsinkelser kan skje når du minst venter det. For å beskytte deg mot de økonomiske konsekvensene av slike hendelser, er det viktig å ha en god reiseforsikring.

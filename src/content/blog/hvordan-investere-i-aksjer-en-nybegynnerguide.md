@@ -2,7 +2,7 @@
 title: "Hvordan investere i aksjer: En nybegynnerguide"
 description: "Investering i aksjer har blitt stadig mer populært som en måte å bygge formue på, og det er en av de mest effektive måtene å få pengene dine til å vokse over tid. Men for mange nybegynnere kan aksjemarkedet virke komplisert og skremmende. Hvordan begynner man egentlig å investere i aksjer, og hva bør man &#8230; Read more"
 pubDate: "2024-11-27"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/spreadsheetdocumentinformationfinancialstartupconc.jpg"
 ---
 
 Investering i aksjer har blitt stadig mer populært som en måte å bygge formue på, og det er en av de mest effektive måtene å få pengene dine til å vokse over tid. Men for mange nybegynnere kan aksjemarkedet virke komplisert og skremmende. Hvordan begynner man egentlig å investere i aksjer, og hva bør man vite før man kaster seg ut i det? I denne guiden skal vi gå gjennom det grunnleggende om aksjeinvestering, inkludert hvordan aksjer fungerer, hvordan du kommer i gang, og hvilke strategier du kan bruke som nybegynner.

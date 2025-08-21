@@ -2,7 +2,7 @@
 title: "En nybegynnerguide til investering i kryptovaluta"
 description: "Kryptovaluta har vokst fra å være en nisjeinteresse til en global investeringsmulighet. Mange ønsker å dra nytte av denne digitale revolusjonen, men for nybegynnere kan markedet virke komplekst og til tider forvirrende. Hva er egentlig kryptovaluta, og hvordan kan man investere trygt? I denne guiden får du en trinnvis introduksjon til hva kryptovaluta er, hvordan &#8230; Read more"
 pubDate: "2025-01-30"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog/mutualfundsbusinessstockprofitgrowthinvestmentmone.jpg"
 ---
 
 Kryptovaluta har vokst fra å være en nisjeinteresse til en global investeringsmulighet. Mange ønsker å dra nytte av denne digitale revolusjonen, men for nybegynnere kan markedet virke komplekst og til tider forvirrende. Hva er egentlig kryptovaluta, og hvordan kan man investere trygt?
