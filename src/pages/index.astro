@@ -84,7 +84,7 @@ const featuredTopics = [
 								<ul class="posts-list">
 									{topic.posts.map(post => (
 										<li>
-											<a href={`/blog/${post.slug}/`}>
+											<a href={`/blog/${post.id}/`}>
 												<span class="post-title">{post.data.title}</span>
 												<FormattedDate date={post.data.pubDate} />
 											</a>
@@ -102,7 +102,7 @@ const featuredTopics = [
 				<div class="posts-grid">
 					{posts.map(post => (
 						<article class="post-card">
-							<a href={`/blog/${post.slug}/`}>
+							<a href={`/blog/${post.id}/`}>
 								<h3>{post.data.title}</h3>
 								<p class="post-excerpt">{post.data.description}</p>
 								<div class="post-meta">
