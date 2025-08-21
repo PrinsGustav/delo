@@ -6,6 +6,8 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 import { getCollection } from 'astro:content';
 import FormattedDate from '../components/FormattedDate.astro';
 
+export const prerender = true;
+
 // Get all posts and create proper objects with slug
 const allPosts = await getCollection('blog');
 const posts = allPosts.sort(
