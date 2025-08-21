@@ -4,16 +4,36 @@ const resend = new Resend(import.meta.env.RESEND_API_KEY);
 
 export async function POST({ request }) {
   try {
+    // Check if API key is available
+    if (!import.meta.env.RESEND_API_KEY) {
+      console.error('RESEND_API_KEY not found');
+      return new Response(
+        JSON.stringify({ error: 'Server configuration error. Please try again later.' }), 
+        { status: 500, headers: { 'Content-Type': 'application/json' } }
+      );
+    }
+
     const formData = await request.formData();
     const name = formData.get('name');
     const email = formData.get('email');
     const subject = formData.get('subject');
     const message = formData.get('message');
 
+    console.log('Form data received:', { name, email, subject, hasMessage: !!message });
+
     // Validate required fields
     if (!name || !email || !message) {
       return new Response(
         JSON.stringify({ error: 'Alle obligatoriske felt må fylles ut' }), 
+        { status: 400, headers: { 'Content-Type': 'application/json' } }
+      );
+    }
+
+    // Validate email format
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    if (!emailRegex.test(email)) {
+      return new Response(
+        JSON.stringify({ error: 'Ugyldig e-postadresse' }), 
         { status: 400, headers: { 'Content-Type': 'application/json' } }
       );
     }
@@ -30,8 +50,9 @@ export async function POST({ request }) {
     const subjectText = subjectMap[subject] || subject;
 
     const { data, error } = await resend.emails.send({
-      from: 'Delo Kontaktskjema <noreply@delo.no>',
+      from: 'Delo Kontaktskjema <onboarding@resend.dev>',
       to: ['morten@trase.no'],
+      reply_to: email,
       subject: `Ny henvendelse fra Delo: ${subjectText}`,
       html: `
         <h2>Ny henvendelse fra Delo.no</h2>
@@ -61,11 +82,15 @@ export async function POST({ request }) {
     if (error) {
       console.error('Resend error:', error);
       return new Response(
-        JSON.stringify({ error: 'Kunne ikke sende e-post. Prøv igjen senere.' }), 
+        JSON.stringify({ 
+          error: 'Kunne ikke sende e-post. Prøv igjen senere.',
+          details: process.env.NODE_ENV === 'development' ? error.message : undefined
+        }), 
         { status: 500, headers: { 'Content-Type': 'application/json' } }
       );
     }
 
+    console.log('Email sent successfully:', data);
     return new Response(
       JSON.stringify({ success: true, message: 'Takk for din henvendelse! Vi svarer normalt innen 24 timer.' }), 
       { status: 200, headers: { 'Content-Type': 'application/json' } }
