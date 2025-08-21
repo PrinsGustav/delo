@@ -6,8 +6,9 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 import { getCollection } from 'astro:content';
 import FormattedDate from '../components/FormattedDate.astro';
 
-// Get featured posts (10 most recent)
-const posts = (await getCollection('blog')).sort(
+// Get all posts and create proper objects with slug
+const allPosts = await getCollection('blog');
+const posts = allPosts.sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 ).slice(0, 10);
 
